@@ -1,0 +1,1 @@
+Here contains a few java exercises of project design patterns for studying purposes.
